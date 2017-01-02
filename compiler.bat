@@ -1,0 +1,1 @@
+C:\MinGW\bin\gcc.exe C:\Users\anderson.madureira\Documents\Projects\sensu-client-c\sensu.c   
